@@ -10,7 +10,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "",
+    "url": "https://github.com/pamoman/react-app-template.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/pamoman/react-app-template/issues"
   },
   "files": [
     "template",
