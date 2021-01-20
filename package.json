@@ -1,10 +1,13 @@
 {
   "name": "cra-template-pamo",
+  "author": "Paul Moreland",
   "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "pamosystems",
+    "pamoman"
   ],
   "description": "Pamosystems App template.",
   "main": "template.json",
