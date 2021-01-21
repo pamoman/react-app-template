@@ -31,7 +31,7 @@ const useStyles = makeStyles(theme => {
             paddingLeft: "1rem",
             paddingRight: "1rem",
             [theme.breakpoints.up('sm')]: {
-                width: "280px",
+                width: "350px",
                 justifyContent: "flex-start",
             },
         },

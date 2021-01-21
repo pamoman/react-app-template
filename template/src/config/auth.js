@@ -42,7 +42,8 @@ export const useLogout = () => {
         removeAuthToken();
         removeUserRole();
 
-        return history.push("/login");
+        history.push("/login");
+        window.location.reload();
     };
 
     return logout;
