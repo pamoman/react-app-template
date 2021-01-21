@@ -12,7 +12,7 @@ import logo from 'assets/logo/logo.png';
 import useStyles from './Styles';
 
 const Header = () => {
-    const title = "Pamo",
+    const title = "App",
           isAuth = AuthCheck(),
           classes = useStyles();
 
